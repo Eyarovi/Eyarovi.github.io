@@ -5,6 +5,12 @@
       "description": "File with Information about Wernazy",
       "icon": "📄",
       "downloadUrl": "storage/main_info.txt"
+    },
+    {
+      "name": "Wernazy Image",
+      "description": "Official Wernazy image",
+      "icon": "🖼️",
+      "downloadUrl": "storage/image.jpg"
     }
   ]
 }
