@@ -1,0 +1,10 @@
+{
+  "items": [
+    {
+      "name": "Main Information",
+      "description": "File with Information about Wernazy",
+      "icon": "📄",
+      "downloadUrl": "storage/main_info.txt"
+    }
+  ]
+}
